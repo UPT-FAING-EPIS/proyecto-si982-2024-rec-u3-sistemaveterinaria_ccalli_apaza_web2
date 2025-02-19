@@ -1,4 +1,13 @@
-﻿## 1. Antecedentes
+# Sistema de Gestión Veterinaria "Animalia" Tacna
+
+## Estudiantes:
+
+| Apellido y Nombre                  |
+|-------------------------------------|
+| Apaza Mamani, Edward Hernan   |
+| CCalli Chata, Joel  Robert |
+
+ ## 1. Antecedentes
 
 El sistema de gestión veterinaria surge como una necesidad ante las deficiencias en el manejo de historiales clínicos, control de inventarios y administración de citas en clínicas veterinarias. La falta de digitalización y la gestión manual generan errores, retrasos y pérdida de información. Este proyecto busca optimizar la administración de las clínicas veterinarias mediante un software eficiente y automatizado.
 
