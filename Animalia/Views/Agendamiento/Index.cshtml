@@ -161,40 +161,10 @@
     }
 
     .sidebar {
-    display: flex;
-    background-color: #b5d6cb;
-    padding: 20px;
-    flex-direction: column;
-    }
-
-    .sidebar h3 {
-        font-size: 1.2rem;
-        color: black;
-    }
-
-    .sidebar ul {
-        list-style: none;
-        padding: 0;
-    }
-
-    .sidebar ul li {
-        margin: 10px 0;
-    }
-
-    .sidebar ul li a {
-        text-decoration: none;
-        color: #002147;
-        font-weight: bold;
-        cursor: pointer;
-        display: block; /* Hace que el enlace ocupe todo el espacio del li */
-        padding: 10px; /* Añade espacio interno para que sea más fácil hacer clic */
-        border-radius: 5px; /* Bordes redondeados */
-        transition: background-color 0.3s ease, color 0.3s ease; /* Transición suave */
-    }
-
-    .sidebar ul li a:hover {
-        background-color: #002147; /* Cambia el fondo al pasar el mouse */
-        color: white; /* Cambia el color del texto al pasar el mouse */
+        display: flex;
+        background-color: #b5d6cb;
+        padding: 20px;
+        flex-direction: column;
     }
 
     .content-area {
@@ -207,6 +177,39 @@
         width: 100%;
         max-width: 600px;
         margin-top: 20px;
+    }
+    /* Eliminar los puntos de la lista */
+    .sidebar ul {
+        list-style: none; /* Elimina los puntos */
+        padding: 0; /* Evita espacios innecesarios */
+        margin: 0; /* Ajusta el margen */
+    }
+
+    /* Estilo de los botones dentro de la lista */
+    .sidebar ul li {
+        margin-bottom: 10px; /* Espacio entre botones */
+    }
+
+    .sidebar ul li a {
+        display: block;
+        text-decoration: none;
+        color: white;
+        background-color: #5B9EB5; /* Azul suave */
+        padding: 12px;
+        border-radius: 8px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 1rem;
+        transition: background 0.3s ease, transform 0.2s ease;
+        border: none;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Efecto hover */
+    .sidebar ul li a:hover {
+        background-color: #497E8E; /* Azul más oscuro */
+        transform: translateY(-2px);
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
     }
 </style>
 

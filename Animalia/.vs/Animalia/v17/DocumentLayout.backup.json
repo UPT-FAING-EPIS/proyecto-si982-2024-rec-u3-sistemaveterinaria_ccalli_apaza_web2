@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\",
+  "WorkspaceRootPath": "C:\\Users\\Josuem\\Desktop\\Animalia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\edward\\desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\animalia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\edward\\desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\animalia\\controllers\\informescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:controllers\\informescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\edward\\desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\animalia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\edward\\desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\animalia\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\models\\vw_consultasnotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:models\\vw_consultasnotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\controllers\\informescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:controllers\\informescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|c:\\users\\josuem\\desktop\\animalia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A37DFE-98E4-4092-8C58-F21972B09C4A}|Animalia.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InformesController.cs",
-              "DocumentMoniker": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Controllers\\InformesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\InformesController.cs",
-              "ToolTip": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Controllers\\InformesController.cs",
-              "RelativeToolTip": "Controllers\\InformesController.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAqwMgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:59:29.219Z",
+              "WhenOpened": "2025-01-30T17:40:27.795Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-18T13:51:29.972Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:38:11.962Z",
+              "WhenOpened": "2025-02-20T01:05:57.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T01:06:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:49:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vw_ConsultasNotificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Models\\vw_ConsultasNotificaciones.cs",
+              "RelativeDocumentMoniker": "Models\\vw_ConsultasNotificaciones.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Models\\vw_ConsultasNotificaciones.cs",
+              "RelativeToolTip": "Models\\vw_ConsultasNotificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:48:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:45:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformesController.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\InformesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformesController.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\InformesController.cs",
+              "RelativeToolTip": "Controllers\\InformesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwFMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:16:05.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Edward\\Desktop\\proyecto\\proyecto-si982-2024-rec-u2-proyectou2_web2_ccalli_apaza\\Animalia\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB4AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T21:38:46.564Z"
+              "WhenOpened": "2025-02-13T04:29:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:36:58.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Josuem\\Desktop\\Animalia\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:47:20.831Z",
+              "EditorCaption": ""
             }
           ]
         }

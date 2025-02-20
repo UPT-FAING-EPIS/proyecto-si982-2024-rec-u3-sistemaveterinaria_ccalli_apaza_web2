@@ -73,20 +73,17 @@ namespace Animalia.Controllers
                 return NotFound();
             }
 
-            // Configuración del PDF con iText 7
             using (var stream = new MemoryStream())
             {
                 PdfWriter writer = new PdfWriter(stream);
                 PdfDocument pdf = new PdfDocument(writer);
                 Document document = new Document(pdf);
 
-                // Rutas a tus fuentes desde wwwroot/Assets
-                string helveticaBoldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Assets", "Helvetica-Bold.ttf");
-                string helveticaBoldObliquePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Assets", "Helvetica-BoldOblique.ttf");
-                string helveticaPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Assets", "Helvetica.ttf");
+                string helveticaBoldPath = Path.Combine(Directory.GetCurrentDirectory(), "Assets", "Helvetica-Bold.ttf");
+                string helveticaBoldObliquePath = Path.Combine(Directory.GetCurrentDirectory(), "Assets", "Helvetica-BoldOblique.ttf");
+                string helveticaPath = Path.Combine(Directory.GetCurrentDirectory(), "Assets", "Helvetica.ttf");
 
 
-                // Fuentes y colores -  Cargando las fuentes desde archivos .ttf
                 PdfFont titleFont = PdfFontFactory.CreateFont(helveticaBoldPath, PdfEncodings.WINANSI);
                 PdfFont headingFont = PdfFontFactory.CreateFont(helveticaBoldObliquePath, PdfEncodings.WINANSI);
                 PdfFont normalFont = PdfFontFactory.CreateFont(helveticaPath, PdfEncodings.WINANSI);
