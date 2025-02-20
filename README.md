@@ -151,3 +151,10 @@ Desarrollar un sistema de gestión veterinaria que optimice la administración d
 ### **Diagrama de Actividades**
 
 ![Diagrama de Actividades](img/Aspose.Words.2e46135b-7d25-48a0-a53c-90bf4435b955.021.jpeg)
+
+### **Diagrama de despliegue**
+
+
+### **Diagrama de Infraestructura**
+
+![image](https://github.com/user-attachments/assets/8a09e10a-ad93-4a35-982a-a4c1b2d709bf)
