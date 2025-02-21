@@ -58,62 +58,38 @@ Desarrollar un sistema de gestión veterinaria que optimice la administración d
 
 ![](img/Aspose.Words.7ac47401-2047-4bfe-a396-00672ce642ec.001.png)
 
-7. **Presupuesto** 
+## 7. **Presupuesto**
 
-**Costos Generales** 
+### **Costos Generales**
 
-**Elemento** 
-Infraestructura en la nube Licencias de software 
-Equipos adicionales 
+| **Elemento**                 | **Costo (S/.)** |
+|------------------------------|---------------|
+| Infraestructura en la nube   | 0             |
+| Licencias de software        | 600           |
+| Equipos adicionales          | 1,200         |
 
-**Costo (S/.)** 0 
+### **Costos Operativos Durante el Desarrollo**
 
-600 
+| **Elemento**       | **Costo Mensual (S/.)** |
+|--------------------|---------------------|
+| Servicios básicos | 300                 |
+| Internet         | 150                 |
 
-1,200 
+### **Costos de Personal**
 
-**Costos Operativos Durante el Desarrollo** 
+| **Rol**                 | **Cantidad** | **Salario Mensual (S/.)** | **Duración (Meses)** | **Costo Total (S/.)** |
+|-------------------------|------------|------------------------|-----------------|----------------|
+| Desarrollador Backend  | 1          | 1,200                  | 2               | 2,400          |
+| Desarrollador Frontend | 1          | 1,200                  | 2               | 2,400          |
 
-**Elemento  Costo Mensual (S/.)** Servicios básicos  300 
+### **Costos Totales**
 
-Internet  150 
-
-**Costos de Personal** 
-
-**Rol** 
-
-Desarrollador Backend 
-
-Desarrollador Frontend 
-
-**Cantidad** 1 
-
-1 
-
-**Salario 
-Mensual (S/.)** 
-
-1,200 1,200 
-
-**Duración (Meses)** 
-
-2 2 
-
-**Costo Total (S/.)** 
-
-2,400 2,400 
-
-**Costos Totales** 
-
-**Categoría** Costos Generales Costos Operativos Costos de Personal **Total** 
-
-**Costo Total (S/.)** 2,600 
-
-900 
-
-4,800 
-
-**8,300** 
+| **Categoría**        | **Costo Total (S/.)** |
+|----------------------|-----------------|
+| Costos Generales     | 2,600           |
+| Costos Operativos    | 900             |
+| Costos de Personal   | 4,800           |
+| **Total**           | **8,300**       |
 
 8. **Conclusiones ![](img/Aspose.Words.7ac47401-2047-4bfe-a396-00672ce642ec.002.png)**
 - Beneficios esperados en la administración de clínicas veterinarias. 
